@@ -27,9 +27,17 @@ Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
 ![01](https://mdcontent.yu.money/contents/c87a6d86cb5a5e3b8e61e3702.png)
 
 ## Links
+### Plans & Pricing
 [GitHub’s plans](https://docs.github.com/en/get-started/learning-about-github/githubs-plans)
 
 [GitHub Pricing Comparison](https://github.com/pricing#compare-features)
+
+### Introduction to Git
+[What is version control?](https://learn.microsoft.com/en-us/devops/develop/git/what-is-version-control)
+
+[What is Git?](https://learn.microsoft.com/en-us/devops/develop/git/what-is-git)
+
+[About GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
 
 ### Codespaces
 [What are GitHub Codespaces?](https://docs.github.com/en/enterprise-cloud@latest/codespaces/about-codespaces/what-are-codespaces)
@@ -47,37 +55,59 @@ Post Course Survey: [https://aka.ms/gh900survey](https://aka.ms/gh900survey)
 
 [Asking GitHub Copilot questions in your IDE](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/asking-github-copilot-questions-in-your-ide)
 
+[Custom instructions for GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization)
+
 [VSCode - Introducing auto model selection (preview)](https://code.visualstudio.com/blogs/2025/09/15/autoModelSelection)
+
+[GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 
 ### Security
 [About GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 
-<!--
-### Introduction to Git
-[What is version control?](https://learn.microsoft.com/en-us/devops/develop/git/what-is-version-control)
+[About code scanning with CodeQL](https://docs.github.com/en/code-security/concepts/code-scanning/codeql/about-code-scanning-with-codeql)
 
-[What is Git?](https://learn.microsoft.com/en-us/devops/develop/git/what-is-git)
+[About secret scanning](https://docs.github.com/en/code-security/secret-scanning/introduction/about-secret-scanning)
 
-[Subscription plans for GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot/subscription-plans-for-github-copilot)
+[About Dependabot alerts](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts)
 
-[Reviewing user activity data for Copilot in your organization](https://docs.github.com/en/copilot/managing-copilot/managing-github-copilot-in-your-organization/reviewing-activity-related-to-github-copilot-in-your-organization/reviewing-user-activity-data-for-copilot-in-your-organization)
+[About supply chain security](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-supply-chain-security)
 
-[Using GitHub Copilot code review](https://docs.github.com/en/copilot/using-github-copilot/code-review/using-copilot-code-review)
+[About two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)
 
-[Asking GitHub Copilot questions in your IDE](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/asking-github-copilot-questions-in-your-ide)
+### Repository Management
+[Configuring issue templates for your repository](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository)
 
-[Custom instructions for GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/copilot-customization)
+[About code owners](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners)
 
-[GitHub Copilot Internal](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html)
+[About protected branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches)
 
-[GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
+### Collaboration
+[About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
-[Cline – Autonomous coding agent right in your IDE](https://github.com/cline/cline)
+[About issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 
-[GitHub Copilot Workspace](https://copilot-workspace.githubnext.com/)
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-[GitHub Copilot Workspace Demo | Transform issues into plans](https://www.youtube.com/watch?v=L5Xny6yehUg)
--->
+[About discussions](https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+
+[About GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+
+[About wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis)
+
+[Creating gists](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+
+### Projects
+[About Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+
+### GitHub Actions
+[Understanding GitHub Actions](https://docs.github.com/en/actions/get-started/understand-github-actions)
+
+### Open Source & Community
+[About forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)
+
+[About GitHub Sponsors](https://docs.github.com/en/sponsors/getting-started-with-github-sponsors/about-github-sponsors)
+
+[About GitHub Marketplace](https://docs.github.com/en/apps/github-marketplace/github-marketplace-overview/about-github-marketplace)
 
 ## Exercises
 - 01. [Exercise - Try out Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/2-exercise-configure-git)
